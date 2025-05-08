@@ -1,5 +1,5 @@
 PROJETO DATALINE
-
+------------------------------------------------------------------
 Status:
 -Em Desenvolvimento
 
@@ -18,3 +18,5 @@ Funcionalidades do sistema:
 -Java 23
 -MySQL (Banco local)
 -Windows 10/11
+
+-----------------------------------------------------------------
